@@ -3,9 +3,10 @@
 - **To add to the list:** Submit a pull request
 - **To remove from the list:** Open an issue
 
-- List items should be sorted *alphabetically*.
+- List items should be sorted _alphabetically_.
 - Each item should be limited to one link
 
+- hello
 
 ## Reporting issues
 
